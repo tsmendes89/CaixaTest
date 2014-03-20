@@ -1,0 +1,7 @@
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\bin\Debug\CaixaTest.dll
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\bin\Debug\CaixaTest.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\bin\Debug\CaixaLibrary.dll
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\bin\Debug\CaixaLibrary.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\obj\Debug\CaixaTest.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\obj\Debug\CaixaTest.dll
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaTest\CaixaTest\obj\Debug\CaixaTest.pdb
